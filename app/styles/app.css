@@ -44,7 +44,7 @@
   color: #DF4E39;
 }
 .splash{
-  height: calc(100vh - 100px);
+  height: 500px;
   width: 100%;
   background: #DF4E39;
   position: relative;
@@ -68,4 +68,16 @@
 .splash-inner a{
   color: #fff;
   text-decoration: none;
+}
+.commands{
+  background: #fff;
+  padding: 100px;
+}
+.commands h3{
+  margin: 0;
+  padding-left: 25px;
+  font-size: 24px;
+}
+.commands ul{
+  line-height: 35px;
 }
