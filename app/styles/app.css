@@ -34,6 +34,8 @@
   width: 30%;
   line-height: 100px;
   margin: 0;
+  padding-right: 5%;
+  text-align: right;
 }
 .nav li{
   display: inline-block;
